@@ -1,4 +1,4 @@
-# Step to reproduce
+# Steps to reproduce
 
 - Clone this repo
 - Try to `tsc`
